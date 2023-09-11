@@ -18,4 +18,4 @@ Built with
 - HTML markup
 - CSS
 - JavaScript
-- Mobile-first workflow
+- Javascript Document Object Model (DOM)
